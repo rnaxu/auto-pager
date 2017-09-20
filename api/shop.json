@@ -1,0 +1,31 @@
+{
+  "shop": [
+    {
+      "order": 1,
+      "id": "000000",
+      "name": "Name",
+      "category": "Category",
+      "access": "Access",
+      "thumb_01": "https://dummyimage.com/200x200/ddd/000.png&text=+dummy+",
+      "thumb_02": "https://dummyimage.com/200x200/ccc/000.png&text=+dummy+"
+    },
+    {
+      "order": 2,
+      "id": "000001",
+      "name": "Name",
+      "category": "Category",
+      "access": "Access",
+      "thumb_01": "https://dummyimage.com/200x200/bbb/000.png&text=+dummy+",
+      "thumb_02": "https://dummyimage.com/200x200/aaa/000.png&text=+dummy+"
+    },
+    {
+      "order": 3,
+      "id": "000002",
+      "name": "Name",
+      "category": "Category",
+      "access": "Access",
+      "thumb_01": "https://dummyimage.com/200x200/999/000.png&text=+dummy+",
+      "thumb_02": "https://dummyimage.com/200x200/888/000.png&text=+dummy+"
+    }
+  ]
+}

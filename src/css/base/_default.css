@@ -1,0 +1,15 @@
+@charset 'utf-8';
+
+:root {
+  font-size: var(--font-size-root);
+}
+
+body {
+  background-color: #eee;
+  font-family: "Hiragino Kaku Gothic Pro", Meiryo, "ＭＳ Ｐゴシック", Osaka, Arial, Sans-serif;
+  line-height: 1.25;
+}
+
+a {
+  text-decoration: none;
+}

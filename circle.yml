@@ -1,0 +1,9 @@
+machine:
+  node:
+    version: 6.11.2
+
+deployment:
+  deploy:
+    branch: master
+    commands:
+     - ./build.sh

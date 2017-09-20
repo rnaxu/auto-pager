@@ -1,0 +1,9 @@
+@charset 'utf-8';
+
+:root {
+  --font-size-root: 12px;
+  --font-size-base: 1rem;
+  --font-size-xs: .83333rem; /* 10px */
+  --font-size-l: 1.33333rem; /* 16px */
+}
+
